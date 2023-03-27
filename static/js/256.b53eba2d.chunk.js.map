@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/256.b53eba2d.chunk.js","mappings":"wLAAe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,MAAIC,MAAO,CAAEC,MAAO,OAAQC,SAAC,YACtC,C","sources":["pages/NotFound/NotFound.jsx"],"sourcesContent":["export default function NotFound() {\n  return <h2 style={{ color: 'red' }}>NotFound</h2>;\n}\n"],"names":["NotFound","_jsx","style","color","children"],"sourceRoot":""}

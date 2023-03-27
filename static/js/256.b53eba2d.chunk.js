@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktemplates_react_new=self.webpackChunktemplates_react_new||[]).push([[256],{256:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(329);function u(){return(0,r.jsx)("h2",{style:{color:"red"},children:"NotFound"})}}}]);
+//# sourceMappingURL=256.b53eba2d.chunk.js.map
