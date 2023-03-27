@@ -1,0 +1,19 @@
+:root {
+  --text-main-color: rgba(0, 0, 0, 1);
+  --text-placeholder-input-grey-color: rgba(189, 189, 189, 1);
+  --text-white-color: rgba(255, 255, 255, 1);
+  --text-grey-color: rgba(166, 166, 166, 1);
+  --text-red-color: rgb(235, 40, 65);
+  --text-green-color: rgba(36, 204, 167, 1);
+
+  // Backgrounds
+  --background-white-color: rgba(255, 255, 255, 1);
+  --background-grey-color: rgba(255, 255, 255, 0.4);
+  --background-red-hover-color: rgb(204, 37, 59);
+  --background-green-hover-color: rgb(31, 185, 152);
+
+  // Adaptive width
+  --mobile: 480px;
+  --tablet: 768px;
+  --desktop: 1280px;
+}
